@@ -1,0 +1,12 @@
+Point
+Entry Target No. of ellipsoid Recoorection of path
+
+Height at max 400 mm.. 
+
+######
+Entry = [-690,-160,200]
+Target = [-541,-161,0]
+
+
+EntryList = [[-560,-150,450],[-530,10,390],[-580,-150,420]]
+TargetList = [[-561,-151,0],[-531,20,0],[-581,-151,0]]
