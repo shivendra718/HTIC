@@ -1,0 +1,19 @@
+CheckNeedle Radius and Divsion- 20, 30
+
+Make the link radius for all
+
+Solid lines removed in 3rd graph.
+
+Semicircle ellipsoid
+
+more constraints. check the robot movement
+entry target ell coor path solution 
+
+
+  Entry = [-520,-410,200]
+            Target = [-600,-370,10]
+
+            # Mention atleast 2 needles
+            EntryList = [[-438.5,-366.3,187.2],[-480,-380,205]]
+            TargetList = [[-437.5,-365.3,0],[-509.2,-432.5,0]]    
+
